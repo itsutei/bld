@@ -15,7 +15,7 @@
 |Lbu|[x': L' U L U', r] r| r' [x': r, L' U L U']|
 |Luf|[x': U L' U', r] r| r' [x': r, U L' U']|
 |Blu|[U' L U, r] r| r' [r, U' L U]|
-|Bdr|[D':r', U' R2 U] r |r' [D':U' R2 U, r']|
+|Bdr|[D': r', U' R2 U] r |r' [D': U' R2 U, r']|
 |Brd|[U R' U', r] r| r' [r, U R' U']|
 |Bul|[U2 Lw' U2 Lw U2, r] r |r' [r, U2 Lw' U2 Lw U2]|
 |Rbd|[U' R' U, r] r|r' [r, U' R' U]|
