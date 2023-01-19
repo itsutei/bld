@@ -19,9 +19,9 @@
 |Brd|[U R' U', r] r|[U R' U', r'] r'|
 |Bul|[U2 Lw' U2 Lw U2, r] r|[U2 Lw' U2 Lw U2, r'] r'|
 |Rbd|[x': R U' R' U, r] r|[x': R U' R' U, r'] r'|
-|Rdf|[x' U' R' U, r] r|[x': U' R' U, r'] r'|
-|Rfd|[x': U' R' U, r] r|[x' U' R' U, r'] r'|
-|Rub|[x' U' R U, r] r|[x' U' R U, r'] r'|
+|Rdf|[x': U' R' U, r] r|[x': U' R' U, r'] r'|
+|Rfd|[x': U' R2 U, r] r|[x': U' R2 U, r'] r'|
+|Rub|[x': U' R U, r] r|[x': U' R U, r'] r'|
 |Drb|[U R2 U', r] r|[U R2 U', r'] r'|
 |Dbl|[Lw: U2 Lw' U2 Lw U2, r] r|[Lw: U2 Lw' U2 Lw U2, r'] r'|
 |Dlf|[U' L2 U, r] r|[U' L2 U, r'] r'|
