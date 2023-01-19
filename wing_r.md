@@ -3,26 +3,26 @@
 ## 手順
 |ステッカー|奇数手順|偶数手順
 |---|---|---|
-|Urf|[R' U R U', r] r|r' [r, R' U R U']|
-|Ulb|[L' U' L U, r] r|r' [r, L' U' L U]|
+|Urf|[R' U R U', r] r|[R' U R U', r'] r'|
+|Ulb|[L' U' L U, r] r|[L' U' L U, r'] r'|
 |Ubr|r|r'|
-|Ufl|[Lw': U2 Lw' U2 Lw U2, r] r |r' [Lw': r, U2 Lw' U2 Lw U2]|
-|Frd|[U R U', r] r|r' [r, U R' U']|
-|Fdl|[Lw2: U2 Lw' U2 Lw U2, r] r |r' [Lw2: r, U2 Lw' U2 Lw U2]|
-|Flu|[U' L' U, r] r|r' [r, U' L U] |
-|Lfu|[x': U L2 U', r] r| r' [x': r, U L2 U']|
-|Ldb|[x': U L U', r] r| r' [x': r, U L U']|
-|Lbu|[x': L' U L U', r] r| r' [x': r, L' U L U']|
-|Luf|[x': U L' U', r] r| r' [x': r, U L' U']|
-|Blu|[U' L U, r] r| r' [r, U' L U]|
+|Ufl|[Lw': U2 Lw' U2 Lw U2, r] r |[Lw': U2 Lw' U2 Lw U2, r'] r'|
+|Frd|[U R U', r] r|[U R U', r'] r'|
+|Fdl|[Lw2: U2 Lw' U2 Lw U2, r] r |[Lw2: U2 Lw' U2 Lw U2, r'] r' |
+|Flu|[U' L' U, r] r|[U' L' U, r'] r'|
+|Lfu|[x': U L2 U', r] r| [x': U L2 U', r'] r'|
+|Ldb|[x': U L U', r] r| [x': U L U', r'] r'|
+|Lbu|[x': L' U L U', r] r| [x': L' U L U', r'] r'|
+|Luf|[x': U L' U', r] r| [x': U L' U', r'] r'|
+|Blu|[U' L U, r] r| [U' L U, r'] r'|
 |Bdr|[D': r', U' R2 U] r |r' [D': U' R2 U, r']|
-|Brd|[U R' U', r] r| r' [r, U R' U']|
-|Bul|[U2 Lw' U2 Lw U2, r] r |r' [r, U2 Lw' U2 Lw U2]|
-|Rbd|[U' R' U, r] r|r' [r, U' R' U]|
-|Rdf|[U' R2 U, r] r|r' [r, U' R2 U]|
-|Rfd|[U' R U, r] r|r' [r, U' R U]|
-|Rub|[R U' R' U, r] r|r' [r, R U' R' U]|
-|Drb|[U R2 U', r] r|r' [r, U R2 U']|
-|Dbl|[Lw: U2 Lw' U2 Lw U2, r] r |r' [Lw: r, U2 Lw' U2 Lw U2]|
-|Dlf|[U' L2 U, r] r|r' [r', U' L2 U]|
+|Brd|[U R' U', r] r|[U R' U', r'] r'|
+|Bul|[U2 Lw' U2 Lw U2, r] r |[U2 Lw' U2 Lw U2, r'] r'|
+|Rbd|[U' R' U, r] r|[U' R' U, r'] r'|
+|Rdf|[U' R2 U, r] r|[U' R2 U, r'] r'|
+|Rfd|[U' R U, r] r|[U' R U, r'] r'|
+|Rub|[R U' R' U, r] r|[R U' R' U, r'] r'|
+|Drb|[U R2 U', r] r|[U R2 U', r'] r'|
+|Dbl|[Lw: U2 Lw' U2 Lw U2, r] r |[Lw: U2 Lw' U2 Lw U2, r'] r'|
+|Dlf|[U' L2 U, r] r|[U' L2 U, r'] r'|
 |Dfr|[D': U R2 U', r] r|r' [D': r, U R2 U']|
