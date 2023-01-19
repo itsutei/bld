@@ -3,9 +3,9 @@
 ## 手順
 |ステッカー|奇数手順|偶数手順
 |---|---|---|
-|UR|[R' U R U', r] r|r' [r, R' U R U']|
-|UL|[L' U' L U, r] r|r' [r, L' U' L U]|
-|Ubr|[U R U', r] r |r' [r, U R' U']|
+|Urf|[R' U R U', r] r|r' [r, R' U R U']|
+|Ulb|[L' U' L U, r] r|r' [r, L' U' L U]|
+|Ubr|r|r'|
 |Ufl|[Lw': U2 Lw' U2 Lw U2, r]r |r' [Lw': r, U2 Lw' U2 Lw U2]|
 |Frd|[U R U', r] r|r' [r, U R' U']|
 |Fdl|[Lw2: U2 Lw' U2 Lw U2, r]r |r' [Lw2: r, U2 Lw' U2 Lw U2]|
