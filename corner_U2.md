@@ -6,10 +6,10 @@
 |RFD|[R' D' R, U2] U2|
 |FLD|[D: R' D' R, U2] U2|
 |LBD|[D2: R' D' R, U2] U2|
-|BED|[D': R' D' R, U2] U2|
+|BRD|[D': R' D' R, U2] U2|
 |LFD|[R' D R, U2] U2|
 |BLD|[D : R' D R, U2] U2|
-|RBD|[R' D2 R, U2]|
+|RBD|[D2: R' D R, U2] U2|
 |DFR|[R2 D' R2 D R2, U2]|
 |DFL|[D: R2 D' R2 D R2, U2]|
 |DBL|[D2: R2 D' R2 D R2, U2]|
