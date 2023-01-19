@@ -18,10 +18,10 @@
 |Bdr|[D': r', U' R2 U] r|r' [D': U' R2 U, r']|
 |Brd|[U R' U', r] r|[U R' U', r'] r'|
 |Bul|[U2 Lw' U2 Lw U2, r] r|[U2 Lw' U2 Lw U2, r'] r'|
-|Rbd|[U' R' U, r] r|[U' R' U, r'] r'|
-|Rdf|[U' R2 U, r] r|[U' R2 U, r'] r'|
-|Rfd|[U' R U, r] r|[U' R U, r'] r'|
-|Rub|[R U' R' U, r] r|[R U' R' U, r'] r'|
+|Rbd|[x': R U' R' U, r] r|[x': R U' R' U, r'] r'|
+|Rdf|[x' U' R' U, r] r|[x': U' R' U, r'] r'|
+|Rfd|[x': U' R' U, r] r|[x' U' R' U, r'] r'|
+|Rub|[x' U' R U, r] r|[x' U' R U, r'] r'|
 |Drb|[U R2 U', r] r|[U R2 U', r'] r'|
 |Dbl|[Lw: U2 Lw' U2 Lw U2, r] r|[Lw: U2 Lw' U2 Lw U2, r'] r'|
 |Dlf|[U' L2 U, r] r|[U' L2 U, r'] r'|
